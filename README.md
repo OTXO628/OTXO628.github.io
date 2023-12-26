@@ -22,6 +22,8 @@
         section {
             text-align: center;
             padding: 2em;
+            max-width: 800px; /* Added for responsive design */
+            margin: 0 auto; /* Center content */
         }
 
         img {
@@ -59,7 +61,7 @@
     <section>
         <p>Welcome to ChatGPT, where artificial intelligence meets conversation!</p>
         
-        <img src="https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcT4gnZQ9dQM0x3Q5ghJudHCJTxL0z6C-u7xeXtbWSrj4Ab2RtM0z4ixp-R0Jcq7tJ92vTyrMprKuM1_bgA" alt="ChatGPT Logo">
+        <img src="https://example.com/path/to/your/chatgpt_logo.png" alt="ChatGPT Logo">
         
         <p>Experience the power of natural language understanding and generation with ChatGPT. Whether you're looking for assistance, information, or just a friendly chat, ChatGPT is here for you.</p>
         
