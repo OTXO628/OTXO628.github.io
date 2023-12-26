@@ -1,4 +1,3 @@
-theme: jekyll-theme- Architect
 # H1
 ## H2
 ### H3
